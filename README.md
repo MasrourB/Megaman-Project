@@ -9,4 +9,4 @@ Originally this was going to be a Super Mario project but I decided to go with M
 
 The goal of this project is to make a few new levels for Megaman to traverse through. Level 1 is almost done (but it will look very different than what it is now) and more levels are on their way.
 
-(Updates will be sporadic because I am currently busy with classes. A lot of this code needs to be cleaned up and I will get to fixing it up soon.)
+(Updates will be sporadic because I am currently busy with classes.)
