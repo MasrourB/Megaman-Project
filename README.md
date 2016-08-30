@@ -1,4 +1,4 @@
-# MegamanProject
+# Retro Platforming Simulator
 A re-creation of the original Megaman Series with Java's Swing GUI widget toolkit.
 
 ![alt tag](http://oi60.tinypic.com/35n2250.jpg)
